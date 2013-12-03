@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE project>
+
+<project name="HelloAnt-portlet" basedir="." default="deploy">
+	<import file="D:\liferay\plugins\liferay-plugins-sdk-6.1.1\portlets/build-common-portlet.xml" />
+</project>
